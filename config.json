@@ -1,0 +1,11 @@
+{
+  "refresh_interval": 30,
+  "telegram_report_interval": 300,
+  "portfolio": {
+    "BTCUSDT":  {"amount": 0.05,  "avg_buy": 60000},
+    "ETHUSDT":  {"amount": 1.2,   "avg_buy": 2800},
+    "BNBUSDT":  {"amount": 5.0,   "avg_buy": 400},
+    "SOLUSDT":  {"amount": 10.0,  "avg_buy": 120},
+    "ADAUSDT":  {"amount": 500.0, "avg_buy": 0.45}
+  }
+}
